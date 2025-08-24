@@ -16,12 +16,12 @@ This Python tool estimates sound pressure levels (SPL) for wind turbine blades u
 ## Installation
 1. **Clone the Repository** (if part of the `turbomachinery` portfolio):
    ```
-   git clone https://github.com/yourusername/turbomachinery.git
+   git clone https://github.com/vimal0athithan/turbomachinery.git
    cd turbomachinery/wind-turbine-analysis
    ```
    For a standalone repo, use:
    ```
-   git clone https://github.com/yourusername/wind-turbine-acoustic-analysis.git
+   git clone https://github.com/vimal0athithan/wind-turbine-acoustic-analysis.git
    cd wind-turbine-acoustic-analysis
    ```
 2. **Set Up a Virtual Environment** (recommended):
@@ -87,10 +87,10 @@ Comparison Table:
 - Example run time: ~1 second on a standard laptop for default parameters.
 
 ## For Siemens HR
-This project showcases my expertise in aeroacoustic modeling for wind turbines, aligning with Siemens’ focus on renewable energy. The code is modular, well-documented, and extensible for integration with advanced turbine design tools. I’m eager to discuss how my skills can contribute to Siemens’ wind energy initiatives.
+This project showcases my expertise in aeroacoustic modeling for wind turbines, aligning with Siemens’ focus on renewable energy. The code is modular, well-documented, and extensible for integration with advanced turbine design tools. I’m eager to discuss how my skills can contribute to Siemens’s wind energy initiatives.
 
 ## License
 MIT License (see [LICENSE](../LICENSE) in the main `turbomachinery` repo, if applicable).
 
 ## Contact
-For questions or collaboration, reach me at [Your Email or LinkedIn]. Fork or contribute to enhance the tool!
+For questions or collaboration, reach me at [vimalgnani@gmail.com or https://www.linkedin.com/in/vimal-athithan-g-202460304/]. Fork or contribute to enhance the tool!
