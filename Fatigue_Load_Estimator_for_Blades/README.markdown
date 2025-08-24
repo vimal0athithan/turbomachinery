@@ -1,7 +1,7 @@
 # Fatigue Load Estimator for Blades
 
 ## Overview
-This Python script estimates the fatigue life of wind turbine blades under varying wind conditions using a simplified S-N curve approach and a rainflow counting algorithm. It simulates fatigue damage accumulation over time for different wind regimes (Calm, Normal, and Stormy) and plots the results. Developed as part of my turbomachinery portfolio, this tool showcases skills in structural engineering, fatigue analysis, and Python programming, prepared for Siemens HR review on August, 2025.
+This Python script estimates the fatigue life of wind turbine blades under varying wind conditions using a simplified S-N curve approach and a rainflow counting algorithm. It simulates fatigue damage accumulation over time for different wind regimes (Calm, Normal, and Stormy) and plots the results. Developed as part of my turbomachinery portfolio, this tool showcases skills in structural engineering, fatigue analysis, and Python programming.
 
 **Key Features:**
 - Implements S-N curve with rainflow cycle counting.
