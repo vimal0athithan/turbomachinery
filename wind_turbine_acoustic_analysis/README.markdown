@@ -1,7 +1,7 @@
 # Wind Turbine Acoustic Analysis
 
 ## Overview
-This Python tool estimates sound pressure levels (SPL) for wind turbine blades using a simplified Brooks-Pope-Marcolini (BPM) aeroacoustic model, focusing on trailing-edge noise. It takes inputs like blade tip speed, chord length, and wind speed to compute the SPL spectrum and overall SPL, with comparisons for different blade designs. This project demonstrates skills in engineering acoustics, numerical modeling, and Python programming, developed as part of a turbomachinery portfolio for Siemens HR review.
+This Python tool estimates sound pressure levels (SPL) for wind turbine blades using a simplified Brooks-Pope-Marcolini (BPM) aeroacoustic model, focusing on trailing-edge noise. It takes inputs like blade tip speed, chord length, and wind speed to compute the SPL spectrum and overall SPL, with comparisons for different blade designs. This project demonstrates skills in engineering acoustics, numerical modeling, and Python programming.
 
 **Key Features:**
 - Inputs: Blade tip speed, chord length, wind speed.
