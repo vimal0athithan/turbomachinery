@@ -10,7 +10,7 @@ The optimization combines two approaches:
 - **Genetic Algorithm (GA)**: Uses the DEAP library with NSGA-II for global exploration of the Pareto front.
 - **Gradient-based Method**: Employs SciPy's SLSQP with a normalized weighted sum for local exploitation.
 
-The output includes **Figure 1**, a 3D scatter plot visualizing the Pareto front (AEP vs. Mass vs. Fatigue), and a CSV file with results, showcasing trade-offs between objectives. This project demonstrates skills in multi-disciplinary optimization (MDO), Python programming, and wind turbine design, prepared for review on August 24, 2025.
+The output includes **Figure 1**, a 3D scatter plot visualizing the Pareto front (AEP vs. Mass vs. Fatigue), and a CSV file with results, showcasing trade-offs between objectives. This project demonstrates skills in multi-disciplinary optimization (MDO), Python programming, and wind turbine design.
 
 **Key Features:**
 - Multi-objective optimization with NSGA-II and SLSQP.
