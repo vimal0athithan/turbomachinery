@@ -46,7 +46,7 @@ This Python script estimates the fatigue life of wind turbine blades under varyi
    - Modify `wind_regimes` in the script to adjust mean wind speeds or turbulence intensity.
    - Adjust material constants (`m`, `S_ult`, `C`) in the S-N curve for different blade materials.
 
-## Simulation Results (August 24, 2025)
+## Simulation Results 
 The script was run with the following outputs, indicating fatigue damage and life estimates:
 
 - **Calm Regime (6 m/s mean wind, low turbulence):**
